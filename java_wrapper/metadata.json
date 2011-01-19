@@ -1,0 +1,32 @@
+{
+  "version": "0.1.0",
+  "conflicting": {
+  },
+  "attributes": {
+  },
+  "providing": {
+  },
+  "long_description": "",
+  "dependencies": {
+    "java_sun": [
+
+    ]
+  },
+  "maintainer": "Mimesis Republic",
+  "replacing": {
+  },
+  "maintainer_email": "stephane.bellity@mimesis-republic.com",
+  "groupings": {
+  },
+  "license": "Apache 2.0",
+  "recommendations": {
+  },
+  "recipes": {
+  },
+  "name": "java_wrapper",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "description": "Installs Java Wrapper from http://wrapper.tanukisoftware.com/"
+}
